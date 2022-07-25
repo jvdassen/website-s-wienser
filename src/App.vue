@@ -38,6 +38,9 @@ html, body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 1rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 #nav {
